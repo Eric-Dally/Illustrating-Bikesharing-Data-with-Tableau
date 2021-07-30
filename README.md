@@ -6,7 +6,7 @@ The purpose of the analysis is well defined. (5 pt)
 
 ## Results:
 
-[link to dashboard](https://public.tableau.com/app/profile/eric.dally/viz/NYCCitibikeAnalysis_16276850585570/NYCCitibikeAnalysis?publish=yes)
+[Link to Tableau Story](https://public.tableau.com/app/profile/eric.dally/viz/NYCCitibikeAnalysis_16276850585570/NYCCitibikeAnalysis?publish=yes)
 
 
 ## Summary:
