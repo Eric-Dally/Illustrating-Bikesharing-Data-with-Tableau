@@ -8,6 +8,23 @@ The purpose of this project was to explore NYC Citi Bikes data to see if opening
 
 [Link to Tableau Story](https://public.tableau.com/app/profile/eric.dally/viz/NYCCitibikeAnalysis_16276850585570/NYCCitibikeAnalysis?publish=yes)
 
+<img width="1175" alt="Screen Shot 2021-07-30 at 2 04 57 PM" src="https://user-images.githubusercontent.com/82424250/127722565-39596505-21d4-4d2a-9af0-e59bc852d3b8.png">
+
+<img width="913" alt="Screen Shot 2021-07-30 at 7 11 42 PM" src="https://user-images.githubusercontent.com/82424250/127722567-718c15d8-4cff-4d62-8fcc-8969df418c0d.png">
+
+<img width="992" alt="Screen Shot 2021-07-30 at 7 12 04 PM" src="https://user-images.githubusercontent.com/82424250/127722573-7ac4126d-c3e8-45fe-8ab7-0fdaf5944f5b.png">
+
+<img width="1017" alt="Screen Shot 2021-07-30 at 7 12 18 PM" src="https://user-images.githubusercontent.com/82424250/127722584-39fb6702-5967-424c-b5c1-a5f02a49972a.png">
+
+<img width="1023" alt="Screen Shot 2021-07-30 at 7 12 34 PM" src="https://user-images.githubusercontent.com/82424250/127722585-0506da09-e15b-47ac-8e2f-863a3a6d9dfb.png">
+
+<img width="1023" alt="Screen Shot 2021-07-30 at 7 12 44 PM" src="https://user-images.githubusercontent.com/82424250/127722591-a4ab5dac-2256-416f-826c-6b188baa1ab9.png">
+
+<img width="902" alt="Screen Shot 2021-07-30 at 7 13 01 PM" src="https://user-images.githubusercontent.com/82424250/127722593-61d0bcd0-e65d-4f38-9f36-bddbc95aa1a9.png">
+
+<img width="966" alt="Screen Shot 2021-07-30 at 7 13 23 PM" src="https://user-images.githubusercontent.com/82424250/127722596-34f41d83-62a3-4786-ad26-0f810ea5823e.png">
+
+
 
 ## Summary:
 
