@@ -6,7 +6,8 @@ The purpose of this project was to explore NYC Citi Bikes data to see if opening
 
 ## Results:
 
-[Link to Tableau Story](https://public.tableau.com/app/profile/eric.dally/viz/NYCCitibikeAnalysis_16276850585570/NYCCitibikeAnalysis?publish=yes)
+### [Link to Tableau Story](https://public.tableau.com/app/profile/eric.dally/viz/NYCCitibikeAnalysis_16276850585570/NYCCitibikeAnalysis?publish=yes)
+
 
 <img width="1175" alt="Screen Shot 2021-07-30 at 2 04 57 PM" src="https://user-images.githubusercontent.com/82424250/127722565-39596505-21d4-4d2a-9af0-e59bc852d3b8.png">
 
